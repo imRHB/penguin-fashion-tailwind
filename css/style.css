@@ -8,3 +8,7 @@ body {
 .h-title {
     font-family: 'Bebas Neue', cursive;
 }
+
+.woman, .man, .feature {
+    display: none;
+}
